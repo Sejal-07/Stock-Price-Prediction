@@ -1,4 +1,3 @@
-# Future_ML_02
 # STOCK PRICE PREDICTION 📈 
 
 A data-driven project that demonstrates how machine learning algorithms can be applied to historical stock market data to predict future prices. In this case, we analyze and forecast Apple Inc. (AAPL) stock using various regression techniques.
